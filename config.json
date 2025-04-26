@@ -1,0 +1,46 @@
+{
+    "collections": [
+        {
+            "id": "acc99dd5-558b-4843-9f01-c859799e1b9a",
+            "title": "Một dải non sông",
+            "description": "Vẻ đẹp thiên nhiên, con người, văn hoá truyền thống của các tỉnh thành Việt Nam",
+            "posts": [
+                {
+                    "id": "c9bb0c7d-7090-405f-a5b6-6976e24fc20c",
+                    "title": "Xây dựng website bằng Java Spring framework",
+                    "date": "26/04/2025" 
+                },
+                {
+                    "id": "c9bb0c7d-7090-405f-a5b6-6976e24fc20c",
+                    "image": "https://i.imgur.com/WP6WTgW.png",
+                    "title": "Xây dựng website bằng Java Spring framework",
+                    "date": "26/04/2025" 
+                },
+                {
+                    "id": "c9bb0c7d-7090-405f-a5b6-6976e24fc20c",
+                    "image": "https://i.imgur.com/WP6WTgW.png",
+                    "title": "Xây dựng website bằng Java Spring framework",
+                    "date": "26/04/2025" 
+                },
+                {
+                    "id": "c9bb0c7d-7090-405f-a5b6-6976e24fc20c",
+                    "image": "https://i.imgur.com/WP6WTgW.png",
+                    "title": "Xây dựng website bằng Java Spring framework",
+                    "date": "26/04/2025" 
+                },
+                {
+                    "id": "c9bb0c7d-7090-405f-a5b6-6976e24fc20c",
+                    "image": "https://i.imgur.com/WP6WTgW.png",
+                    "title": "Xây dựng website bằng Java Spring framework",
+                    "date": "26/04/2025" 
+                },
+                {
+                    "id": "c9bb0c7d-7090-405f-a5b6-6976e24fc20c",
+                    "image": "https://i.imgur.com/WP6WTgW.png",
+                    "title": "Xây dựng website bằng Java Spring framework",
+                    "date": "26/04/2025" 
+                }
+            ]
+        }
+    ]
+}
